@@ -18,34 +18,18 @@ import { Project } from '../types';
 export const STATIC_PROJECTS: Project[] = [
     // --- 2D/3D ILLUSTRATION SAMPLES ---
     {
-        id: 1,
-        title: "Cyber Warrior",
-        type: 'illustration',
-        imageUrl: "https://drive.google.com/file/d/1b7VxajPIQ49RBI7UaqwyXMQ3cztp3v6p/view?usp=sharing",
-        size: '3x1.',
-        filter: 'brightness(100%) contrast(100%)',
-    },
-    {
-        id: 2,
-        title: "Neon City",
-        type: 'illustration',
-        imageUrl: "https://images.unsplash.com/photo-1515630278258-407f66498911?q=80&w=800&auto=format&fit=crop",
-        size: '1x2',
-    },
-    {
-        id: 3,
-        title: "Mech Detail",
-        type: 'illustration',
-        imageUrl: "https://images.unsplash.com/photo-1612152605347-f93296cb657d?q=80&w=800&auto=format&fit=crop",
-        size: '1x1',
-    },
-    {
-        id: 4,
-        title: "Abstract Form",
-        type: 'illustration',
-        imageUrl: "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=800&auto=format&fit=crop",
-        size: '2x1',
-    },
+    id: 1764782148532,
+    title: "Project 1764782148532",
+    type: 'illustration',
+    imageUrl: "https://drive.google.com/uc?export=view&id=1b7VxajPIQ49RBI7UaqwyXMQ3cztp3v6p",
+    size: '1x1',
+    brightness: 100,
+    contrast: 100,
+    saturate: 100,
+    objectPosition: '50% 50%',
+    fit: 'cover',
+    driveLink: "https://drive.google.com/file/d/1b7VxajPIQ49RBI7UaqwyXMQ3cztp3v6p/view?usp=sharing"
+},
 
     // --- CHARACTER DESIGN SAMPLES ---
     {
