@@ -21,7 +21,7 @@ export const STATIC_PROJECTS: Project[] = [
     id: 1764782148532,
     title: "Project 1764782148532",
     type: 'illustration',
-    imageUrl: "https://drive.google.com/uc?export=view&id=1b7VxajPIQ49RBI7UaqwyXMQ3cztp3v6p",
+    imageUrl: "https://drive.google.com/file/d/1b7VxajPIQ49RBI7UaqwyXMQ3cztp3v6p/view?usp=sharing",
     size: '1x1',
     brightness: 100,
     contrast: 100,
