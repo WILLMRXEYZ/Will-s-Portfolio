@@ -31,6 +31,21 @@ export const STATIC_PROJECTS: Project[] = [
     fit: 'cover',
     driveLink: "https://drive.google.com/file/d/1b7VxajPIQ49RBI7UaqwyXMQ3cztp3v6p/view?usp=sharing"
 },
+
+{
+    id: 1764805337675,
+    title: "Project 1764805337675",
+    type: 'illustration',
+    imageUrl: "https://drive.google.com/uc?export=view&id=1vRUP3EnSJsWW1UrvqNfvKIxCgZHHKLAZ",
+    size: '1x1',
+    brightness: 100,
+    contrast: 100,
+    saturate: 100,
+    objectPosition: '50% 50%',
+    fit: 'cover',
+    driveLink: "https://drive.google.com/file/d/1vRUP3EnSJsWW1UrvqNfvKIxCgZHHKLAZ/view?usp=sharing"
+},
+
     // --- CHARACTER DESIGN SAMPLES ---
     {
         id: 10,
