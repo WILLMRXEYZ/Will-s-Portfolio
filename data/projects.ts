@@ -17,12 +17,13 @@ import { Project } from '../types';
 
 export const STATIC_PROJECTS: Project[] = [
     // --- 2D/3D ILLUSTRATION SAMPLES ---
-    {
+{
     id: 1764782148532,
-    title: "Project 1764782148532",
+    title: "01",
     type: 'illustration',
-    imageUrl: "https://drive.google.com/file/d/1b7VxajPIQ49RBI7UaqwyXMQ3cztp3v6p/view?usp=sharing",
-    size: '1x1',
+    // ⭐ 注意：imageUrl 字段现在是一个可嵌入的直链
+    imageUrl: "https://drive.google.com/uc?export=view&id=1b7VxajPIQ49RBI7UaqwyXMQ3cztp3v6p", 
+    size: '3x1',
     brightness: 100,
     contrast: 100,
     saturate: 100,
@@ -30,7 +31,6 @@ export const STATIC_PROJECTS: Project[] = [
     fit: 'cover',
     driveLink: "https://drive.google.com/file/d/1b7VxajPIQ49RBI7UaqwyXMQ3cztp3v6p/view?usp=sharing"
 },
-
     // --- CHARACTER DESIGN SAMPLES ---
     {
         id: 10,
