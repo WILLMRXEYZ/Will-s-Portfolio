@@ -17,7 +17,7 @@ interface AboutModalProps {
 }
 
 // Default Avatar - Replace this string with your generated Drive Link code
-const staticAvatar = "/assets/avatar.jpg"; 
+const staticAvatar = "https://drive.google.com/uc?export=view&id=1LttoA5VuUq8dLLELL5dTsSHvnNo0c_bG";
 
 // --- RESUME MODAL ---
 const ResumeView: React.FC<{ onClose: () => void, avatarUrl: string | null }> = ({ onClose, avatarUrl }) => {
